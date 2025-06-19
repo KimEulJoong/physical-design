@@ -2,8 +2,6 @@
 
 ## CMOS
 
----
-
 ### 개요
 
 - **One Chip 구성 요소**  
@@ -64,18 +62,52 @@
 
 #### 1. 인버터 (Inverter)
 
-
+<img src="./image/인버터.png" width=15%>
 
 ---
 
 #### 2. NAND
 
-
+<img src="./image/NAND.png" width=25% >
 
 ---
 
 #### 3. NOR
 
-
+<img src="./image/NOR.png" width=25%>
 
 ---
+
+<img src="./image/2025-06-19 14 14 24.png" width="50%" height="50%">
+
+<img src="./image/2025-06-19 14 14 37.png" width="50%" height="50%">
+
+<img src="./image/2025-06-19 14 15 31.png" width="50%" height="50%">
+
+<img src="./image/2025-06-19 14 15 40.png" width="50%" height="50%">
+
+<img src="./image/2025-06-19 14 16 27.png" width="50%" height="50%">
+
+<img src="./image/2025-06-19 14 18 04.png" width="50%" height="50%">
+
+<img src="./image/2025-06-19 14 18 15.png" width="50%" height="50%">
+
+<img src="./image/2025-06-19 14 18 31.png" width="50%" height="50%">
+
+<img src="./image/2025-06-19 14 20 17.png" width="50%" height="50%">
+
+<img src="./image/2025-06-19 14 20 23.png" width="50%" height="50%">
+
+<img src="./image/2025-06-19 14 20 32.png" width="50%" height="50%">
+
+<img src="./image/2025-06-19 14 20 39.png" width="50%" height="50%">
+
+<img src="./image/2025-06-19 14 23 05.png" width="50%" height="50%">
+
+<img src="./image/2025-06-19 14 23 46.png" width="50%" height="50%">
+
+<img src="./image/2025-06-19 14 23 59.png" width="50%" height="50%">
+
+<img src="./image/2025-06-19 14 24 17.png" width="50%" height="50%">
+
+<img src="./image/2025-06-19 14 24 21.png" width="50%" height="50%">
